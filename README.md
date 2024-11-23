@@ -7,7 +7,7 @@
 
 ---
 Download [bigint](https://github.com/vivekraj72/BIgint/blob/main/bigint.h) header and include in your C++ program.
-<a href="https://github.com/vivekraj72/BIgint/blob/main/bigint.h" download="">bigint</a>
+
 # How to use it?
 
 
